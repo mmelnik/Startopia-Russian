@@ -31,6 +31,9 @@ LowestDetailObjects: Низкая детализация объектов
 Impostor: 2D спрайты
 ImpostorSlider: Качество
 
+RealShadows: Натуральные тени
+RealShadowSlider: Качество
+
 Resoloution: Разрешение
 32bpp: 32 бит
 16bpp: 16 бит
