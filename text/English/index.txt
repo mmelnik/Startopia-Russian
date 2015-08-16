@@ -78,3 +78,6 @@ ThisLanguageIs: English
 
 [TUTORIAL]
 >tutorial.txt
+
+[PATCH1]
+>patch1.txt

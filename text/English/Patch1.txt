@@ -1,0 +1,18 @@
+[Missions]
+UserMission: Показать пользовательские миссии
+
+[Patch1]
+ScriptChecksumFailed: Внимание! Скриптовые файлы на компьютере %s не совпадают с серверными.
+ScriptOutOfSync: Скриптовые файлы на компьютерах участников различаются -- игра невозможна!
+NoScriptProblems: Проблем со скриптами не возникло!
+TimeLimit: Оставшееся время
+TimeUpWin: Время истекло!  Очки: %d
+TimeUpLose: Потерялись в пространстве, забыты во времени!|Ваши очки: %d
+WinTimer: Предел времени (Минуты)
+ServerWrongVer: Несовместимый сервер, невозможно подсоединиться! :-(|Ваша версия: %d|Версия сервера: %d
+NumberOfWinConditions: Количество условий для победы
+FourWinConditions: Четыре
+ThreeWinConditions: Три
+TwoWinConditions: Два
+OneWinCondition: Одно
+Economy: Экономика

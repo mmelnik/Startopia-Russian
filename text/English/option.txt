@@ -53,6 +53,14 @@ Apply: Применить
 Defaults: По умолчанию
 
 
+D3DDevice: Графическое устройство
+HardwareTNL: (Аппаратные T&L)
+SoftwareTNL: (Программные T&L)
+
+
+
+
+
 // Sound options
 Volume: Громкость
 Ambient: Фон
