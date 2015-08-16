@@ -78,3 +78,6 @@ ThisLanguageIs: Russian
 
 [TUTORIAL]
 >tutorial.txt
+
+[PATCH1]
+>patch1.txt
