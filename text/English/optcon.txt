@@ -1,0 +1,51 @@
+
+[OPTCON]
+// Control remap options.
+// These probably need better text.
+
+// 2D controls.
+ConCursor: Клавиши стрелок
+ConCursorS: Клавиши стрелок + Shift
+ConCursorC: Клавиши стрелок + Ctrl
+ConCursorCS: Клавиши стрелок + Shift + Ctrl
+ConMouseS: Мышь + Shift
+ConMouseC: Мышь + Ctrl/Средняя кнопка мыши
+ConMouseCS: Мышь + Shift + Ctrl/Средняя кнопка мыши
+ConMouseEdge: Мышь на границу экрана
+
+// 2D Control options.
+ConMove: Движение
+ConLook: Обзор
+ConPivot: Поворот
+
+// 1D controls.
+ConMouseWheel: Колесо мыши
+ConMouseWheelPressed: Нажатие на колесо мыши
+ConPgUpPgDn: Page Up/Down
+ConHomeEnd: Home/End
+ConInsDel: Insert/Delete
+ConPlusMinus: Плюс/Минус
+ConSquareBrackets: Квадратные скобки [ ]
+ConPadPlusMinus: Плюс/Минус на цифр. клавиатуре
+ConPadTimesDivide: Умножить/Делить на цифр. клавиатуре
+
+// The mouse wheel sliders.
+Sensitivity: Чувствительность
+
+// 1D control options.
+ConMoveUpDown: Высота
+ConMoveFwdBack: Перемещение
+ConZoomInOut: Приближение
+ConDeckUpDown: Смена палубы
+ConLookUpDown: Обзор
+Nothing: Ничего
+
+//Reverse: Reverse
+
+// make sure you've a blank line at the end!
+
+
+
+
+
+

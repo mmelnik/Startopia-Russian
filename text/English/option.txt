@@ -1,0 +1,155 @@
+[OPTION]
+
+// graphics options
+MuckyCardDidntGlossmap: Во время тестирования игры в Muckyfoot, данная видеокарта не отрисовывала глянцевые поверхности должным образом. Возможно, новый графический драйвер поможет решить данную проблему, но, возможно, вы будете видеть искажения при включении глянцевого эффекта.
+MipmapQuality: Качество Мип-маппинга
+Trilinear: Трилинейное
+Nearest: Ближайшее
+None: Нет
+Fogging: Затуманивание
+On: Вкл
+Off: Выкл
+Glossiness: Глянцевость
+SafeMode: Безопасный режим
+SafeModeOn: Безопасный режим: Вкл
+SafeModeOff: Безопасный режим: Выкл
+LevelOfDetail: Уровень детализации
+Auto: Авто
+Manual: Вручную
+// Texture quality options.
+TextureQuality: Качество текстур
+32bit: 32 бит
+Standard: Стандартные
+Compressed: Сжатые
+16bit: 16 бит
+Animation: Качество анимации
+Lighting: Освещение
+LightingQuality: Качество
+//LowestDetailObjects: Низкая детализация объектов, по возможности
+LowestDetailObjects: Низкая детализация объектов
+
+Impostor: 2D спрайты
+ImpostorSlider: Качество
+
+Resoloution: Разрешение
+32bpp: 32 бит
+16bpp: 16 бит
+
+Antialiasing: Сглаживание
+DisplayMethod: Метод отображения
+FlipWithVsync: Вкл верт. синхр.
+FlipNoVsync: Выкл верт. синхр.
+Blit: Блит
+
+
+TnL: Трансформация и освещение
+HW: Аппаратно
+SW: Программно
+
+
+Apply: Применить
+
+//	Annoyingly not translated.
+Defaults: По умолчанию
+
+
+// Sound options
+Volume: Громкость
+Ambient: Фон
+Voices: Голоса
+Chatter: Болтовня
+Effects: Эффекты
+Music: Музыка
+
+// The master volume control. Sadly, this didn't
+// get translated, so we may have to use Volume: instead
+// unless we have another translation bout.
+Master: Общая громкость
+
+
+Quality: Качество
+High: Высокое
+Medium: Среднее
+Low: Низкое
+CacheSize: Звуковая память
+
+
+
+
+// sandbox options
+DeclaringWar: Позволить войну между игроками.
+Always100000Energy: Дать вам 100000 энергии.
+EverythingResearched: Мгновенно
+NumberOfAIs: Количество компьютерных игроков
+NoAIs: 		Нет
+OneAI: 		Один
+TwoAIs: 		Два
+ThreeAIs: 		Три
+AIplayers: 		ИИ-игроки
+Research:		Скорость исследований
+Energy: 		Энергия
+Energy0:		200000
+Energy1:		100000
+Energy2:		50000
+Visitors: 		Посетители должны быть счастливы
+Residents: 		Резиденты должны быть счастливы
+Flares: 		Солнечные вспышки
+Meteors: 		Метеориты
+Quakes: 		Звездотрясения
+Spies: 		Шпионы
+GameTitle: 		Заголовок игры
+Icon:			Иконка игрока
+Password: 		Пароль
+WinEnergy:		Победная энергия
+WinTerritory:	Победная территория
+WinResearch:	Победные исследования
+WinScore:		Победный счёт
+Chat:			Чат
+Slow:			Медленно
+ModerateSpeed:		Средне
+Fast:			Быстро
+Difficult:		Сложная
+AverageDifficulty:	Средняя
+Easy:			Легкая
+Frequent:		Часто
+AverageFrequency:	Средне
+Rare:			Редко
+Never:		Никогда
+Enabled:		Включено
+Disabled:		Отключено
+50000:		50000
+75000:		75000
+100000:		100000
+
+
+
+[DISPLAY]
+
+// showing the win criteria while playing the game.
+Energy:		Энергия:
+Territory:	Территория:
+Research:	Исследования:
+Score:		Счёт:
+
+
+[STARTOFDAY]
+
+// These are not actually displayed in-game, but does need translating.
+// It may be shown when the game first runs.
+
+DriverWarning: На компакт-диске StarTopia присутствует более новый драйвер, чем тот, что используется вашей видеокартой. Рекомендуем обновить его.
+
+PressAnyKey: Нажмите пробел для продолжения.
+
+PissOff: Больше не показывать это сообщение.
+
+
+
+
+
+
+// make sure you've a blank line at the end!
+
+
+
+

@@ -1,0 +1,367 @@
+[General]
+
+PeaceOnceMore: Война, объявленная вами другому игроку, сменилась миром.
+
+//Bomb01:	Администратор, сенсоры показывают, что на станции была заложена бомба.
+
+LowPower: У вас мало энергии. Вы должны подумать о том, чтобы разместить дополнительные усилители.
+
+CriticalPower: Ваш уровень энергии достиг критического значения. Отключите неиспользуемые сооружения или постройте еще усилителей энергии.
+
+RoomPowerFailed: В комнату прекращена подача энергии: %s
+
+RoomRepair: Комната нуждается в срочном ремонте: %s
+
+RoomDestroyed: Комната была уничтожена! %s
+
+//FurnitureDestroyed: Оборудование было уничтожено!
+
+CrimeCommitted:	Было совершено преступление!
+
+CapturedCriminal: Преступник был заключен в тюрьму.
+
+DeadCriminal: Преступник был убит!
+
+//MerchantDocked: Торговый корабль пристыковался.
+
+//MerchantUndocked: Торговый корабль отбыл.
+
+//PassengerDocked: Пассажирский корабль пристыковался.
+
+//PassengerUndocked: Пассажирский корабль отбыл.
+
+//ScuzzerPowerFailed: Сказзер исчерпал запасы энергии и отключился.
+
+//ScuzzerMalfunctioned: Сказзер неисправен и требует перезагрузки.
+
+ScuzzerDestroyed: Сказзер был уничтожен.
+
+PlayerNewTech: Ваши исследователи разработали новую технологию: %s
+
+PlayerUpgradeTech: Ваши исследователи улучшили технологию: %s
+
+OpponentTechTaunt1: Противник разработал новую технологию: %s
+
+OpponentTechTaunt2: Противник разработал новую технологию и злорадствует над вашей тупостью: %s
+
+OpponentTechTaunt3: Противник разработал новую технологию и дразнит вас, размахивая ею у вас перед носом: %s
+
+OpponentTechTaunt4: Противник разработал новую технологию и выразил соболезнование по поводу ваших неумелых попыток: %s
+
+OpponentTechTaunt5: Противник разработал новую технологию: %s
+
+//TradeShipDetected: Торговый корабль был замечен возле вашей станции.
+
+DeadVisitor: Умер один из посетителей. С вас взыскали 1000э в качестве компенсации семье умершего.
+
+//DeadResident: One of your residents has just died. You have been charged 1000э to compensate the family of the deceased.
+
+DeadAgent: Вражеский агент, работавший на вашей станции под прикрытием, был ликвидирован.
+
+//RunOutOfCargo: У вас закончился следующий тип припасов: %s
+
+FactoryComplete: Фабрика завершила производство.
+
+//GreyLeaving: Один из ваших серых уволился и намерен покинуть станцию!
+
+//SaltyLeaving: Один из ваших грульенских солёных боровов уволился и намерен покинуть станцию!
+
+//TargLeaving: Один из ваших грекка таргов уволился и намерен покинуть станцию!
+
+//GorLeaving: Один из ваших касвагорианцев уволился и намерен покинуть станцию!
+
+//TurkLeaving: Один из ваших тураккенов уволился и намерен покинуть станцию!
+
+//SirenLeaving: Одна из ваших сирен уволилась и намерена покинуть станцию!
+
+MSirenLeaving: Одна из ваших сирен уволилась и намерена покинуть станцию!
+
+//KarmaLeaving: Один из ваших кармарама уволился и намерен покинуть станцию!
+
+//MonkLeaving: Один из ваших зедемских монахов уволился и намерен покинуть станцию!
+
+//SomeoneWantsToLoad: %s хочет загрузить сохранение %d. Вы согласны?
+
+DidntHaveSaveGame: %s не имеет подходящего сохранения для загрузки, поэтому, никто не сможет загрузиться, извините.
+
+Win: Победа!
+
+Lose: Провал! В бесконечный космос...
+
+LostAllDecks: Вся ваша территория была захвачена и вам ничего не остаётся, кроме как покинуть станцию!
+
+No3DCard: Ваша графическая система не удовлетворяет минимальным требованиям для игры в Startopia.
+
+ReinstallDX: Системная 3Д ошибка. Пожалуйста, попробуйте переустановить DirectX.
+
+OhDearMe: Критическая ошибка.
+
+//*********************************************************THESE ARE THE WAVS THAT HAVE BEEN RECORDED!!!************************
+
+// TomF - note any commented out have equiavlents above. Don't want to have things multiply defined.
+
+
+Already:		Вы уже торгуете с кем-то
+
+//Arona_busy:		Арона занят где-то в другом месте
+
+//Arona_gone:		Арона отбыл
+
+//Arona_received:	Арона получил ваш ответ
+
+//Changed cost from 3000 to 1000 to match speech
+Assassin01:		Я получил закодированное сообщение из Гильдии устранителей. Они спрашивают, не хотели бы вы воспользоваться их услугами. Должен ли я согласиться на предложение? (1000э за каждого врага)
+
+Assassinate01:	Посетитель был убит
+
+Assassinate02:	Ваш работник был убит
+
+Auction01:		Был назначен аукцион. Хотите ли вы сделать ставку?
+
+Bomb01:		Администратор, сенсоры показывают, что на станции была заложена бомба.
+
+//Changed cost from 3000 to 1000 to match speech
+Bomber01:		Я получил закодированное сообщение из Гильдии разрушения. Они спрашивают, не хотели бы вы воспользоваться их услугами. Должен ли я согласиться на предложение? (1000э за каждого врага)
+
+BreachProgress:	Вторжение в сегмент не завершено. Вы хотите отменить приказ?|Сегмент %d, палуба %d.
+
+Cannotaffordfurniture:	Ваше оборудование стоит слишком дорого (%d). У вас недостаточно энергии (у вас есть всего %d).
+
+Cannotaffordroom:		Проект комнаты стоит слишком дорого (%d). У вас недостаточно энергии (у вас есть всего %d).
+
+Cannotaffordtohirepeep:	Вы не можете позволить себе нанять этого инопланетянина.
+
+Cannotbeamup:		Вы не можете переместить это.
+
+//CapturedCrim:		A criminal has been incarcerated.
+
+Cargorunout:		У вас закончился следующий тип припасов: %s
+
+Chargedforfurniture:	За оборудование с вас взыскана следующая сумма: %d.
+
+Chargedforroom:		За комнату с вас взыскана следующая сумма: %d.
+
+Confirm01:			Вы уверены, что хотите это сделать, Администратор?
+
+//CrimeCOmmited:		A crime has been committed.
+
+//CriticalPower:		Your power level is critical. Shut down unused facilities or build more power boosters.
+
+Deadagent:			Вражеский агент, работавший на вашей станции под прикрытием, был ликвидирован.
+
+//Deadcrim:			Преступник был убит.
+
+Deadresident:		Умер один из ваших резидентов. С вас взыскали 1000э в качестве компенсации семье умершего.
+
+Deadvisitor:		Умер один из посетителей. С вас взыскали 1000э в качестве компенсации семье умершего.
+
+//Didnthavesavegame:	Someone didn't have a matching savegame to load, so no-one can load. Sorry.
+
+Donthavesavegame:		У вас нет сохранения в этом слоте.
+
+Explode01:			На вашей станции взорвалась бомба.
+
+FactoryComplete:		Фабрика завершила производство.
+
+FurnitureDestroyed:	Оборудование было уничтожено.
+
+FurnitureRepair:		Оборудование нуждается в срочном ремонте.
+
+Gorleaving:			Один из ваших касвагорианцев уволился и намерен покинуть станцию.
+
+Greyleaving:		Один из ваших серых уволился и намерен покинуть станцию.
+
+Karmaleaving:		Один из ваших кармарама уволился и намерен покинуть станцию.
+
+Loaded:			Загружено.
+
+LoadFailed:		Ошибка загрузки.
+
+Loading:			Идёт загрузка.
+
+// ok, so the text doesn't match the speech, but hopefully no-one will mind
+LoadRefused:		На запрос о загрузке сохранения был получен отказ от %s.
+
+Loadsavegameok:		Кто-то хочет загрузить сохранение? Вы согласны?
+
+//Loser:			Lost. In Space.
+
+//Lowpower:			You are low on Power. You should think about placing more power boosters.
+
+MerchantDeparted:		Торговый корабль отбыл.
+
+MerchantDocked:		Торговый корабль пристыковался.
+
+Mish1: 			Задание один. Грульенская рабочая партия.
+
+Mish2: 			Задание два. Совет серых.
+
+Mish3: 			Задание три. Коллектив таргов.
+
+Mish4: 			Задание четыре. Галактический реабилитационный орган.
+
+Mish5: 			Задание пять. Тураккенский комитет.
+
+Mish6: 			Задание шесть. Община кармарама.
+
+Mish7: 			Задание семь. Касвагорианское Королевство.
+
+Mish8: 			Задание восемь. Зедемский конклав.
+
+Mish9: 			Задание девять. Полвакианская аристократия.
+
+Mish10: 			Задание десять. Агентство сирен.
+
+MustOwnAll:			Вы должны завладеть всеми палубами, чтобы иметь возможность занять часть прилежащего сегмента.
+
+Navblocked:			Вы не можете разместить это здесь. Посетители не смогут добраться до некоторого оборудования.
+
+Navnodoors:			В этой комнате нет дверей. Без них посетители не смогут добраться до оборудования.
+
+Notforrecycling: 		Это нельзя переработать.
+
+Notready:			Корабль не в состоянии торговать прямо сейчас.
+
+Notthere:			Я не вижу никаких кораблей.
+
+Nottrade:			Вы не можете торговать с пассажирскими судами.
+
+Notyours:			Пожалуйста, не тыкайте в корабли других игроков.
+
+//OpponentTechTaunt1:	An opponent has developed a new technology.
+
+//OpponentTechTaunt2:	An opponent has developed a new technology and wishes to gloat at your ineptitude.	
+
+//OpponentTechTaunt3: 	An opponent has developed a new technology and chooses to wave it under your nose in a smug fashion.
+
+//OpponentTechTaunt4:	An opponent has developed a new technology and wishes to express his pity at your own feeble research attempts.
+
+//OpponentTechTaunt5:	An opponent has developed a new technology!
+
+Passengerdeparted:	Пассажирский корабль отбыл.
+
+PassengerDocked:		Пассажирский корабль пристыковался.
+
+Patternbufferfull:	Ваш буфер полон.
+
+//Playernewtech:		Your researchers have developed a new technology.
+
+//Playerupgradetech:	Your researchers have improved current technology.
+
+//Resbored:			Your residents are bored.
+
+//Resdirty:			Your residents are unclean.
+
+//Reshorny:			Your residents are lovesick.
+
+//Reshungry:			Your residents are hungry.
+
+//Restired:			Your residents are tired.
+
+//Resunhappy:			Your residents are unhappy.
+
+//Roomdestroyed:		A room has been destroyed.
+
+//Roomfailure:		A room has suffered a power failure.
+
+Roomplacementforbidden:	Размещение комнат запрещено.
+
+//Roomrepair:			A room is in need of urgent repairs.
+
+Saltyleaving:		Один из ваших грульенских солёных боровов уволился и намерен покинуть станцию.
+
+Saved:			Сохранено.
+
+Savefailed:			Внимание. Ошибка сохранения. Повторяю -- ваша игра не была сохранена.
+
+Saving:			Идёт сохранение.
+
+ScuzzerDestroyed:		Сказзер был уничтожен.
+
+// Not used.
+//ScuzzerMalfunction:	A scuzzer has malfunctioned and requires rebooting.
+
+ScuzzerPowerdown:		Сказзер исчерпал запасы энергии и отключился.
+
+SegmentBreach:		Внимание. В один из ваших сегментов осуществлено вторжение.
+
+SegmentTakeover:		Внимание. Противник предпринимает попытку захвата сегмента.
+
+//Ship_detected:		A merchant ship was detected near your station.
+
+Sirenleaving:		Одна из ваших сирен уволилась и намерена покинуть станцию.
+
+TakeoverProgress:		Осуществляется захват вражеского сегмента. Вы хотите отменить приказ?|Сегмент %d, палуба %d.
+
+Targleaving:		Один из ваших грекка таргов уволился и намерен покинуть станцию.
+
+Trade01:			Галактическая торговая федерация докладывает, что текущие рынки стабильны.
+
+Trade02:			Галактическая торговая федерация докладывает, что медицинские принадлежности пользуются повышенным спросом.
+
+Trade03:			Галактическая торговая федерация докладывает, что предметы роскоши пользуются повышенным спросом.
+
+Trade04:			Галактическая торговая федерация докладывает, что товары чёрного рынка пользуются повышенным спросом.
+
+Trade05:			Галактическая торговая федерация докладывает, что инопланетные артефакты пользуются повышенным спросом.
+
+Trade06:			Галактическая торговая федерация докладывает, что пищевая продукция пользуется повышенным спросом.
+
+Trade07:			Галактическая торговая федерация докладывает, что промышленные материалы пользуются повышенным спросом.
+
+Trade08:			Галактическая торговая федерация докладывает, что аппаратура пользуется повышенным спросом.
+
+Trade09:			Галактическая торговая федерация докладывает, что минеральная руда пользуется повышенным спросом.
+
+//Trader_busy:		The Trader is busy elsewhere now.
+
+//Trader_gone:		The Trader has departed.
+
+//Trader_leaving:		The Trader is leaving now.
+
+//Trader_received:		The Trader received your reply.
+
+//Tradeshipdetected:	A trade ship was detected near your station.
+
+Turkleaving:		Один из ваших тураккенов уволился и намерен покинуть станцию.
+
+Tutorgo1:			Вы желаете приступить к обучению, Администратор?
+
+Tutorgo2:			Вот обучение, которое я подготовил раньше.
+
+Tutorgo3:			Обучение готово, можно приступать.
+
+Underattack:		Тревога! Вас атакуют.
+
+UndoBreachProgress: В сегменте осуществляется попытка предотвратить вторжение. Вы хотите отменить приказ?|Сегмент %d, палуба %d.
+
+//Visbored:			Your visitors are bored.
+
+//Visdirty:			Your visitors are unclean.
+
+//Vishorny:			Your visitors are lovesick.
+
+//Vishungry:			Your visitors are hungry.
+
+//Vistired:			Your visitors are tired.
+
+//Visunhappy:			Your visitors are unhappy.
+
+//Winner:			You're a Winner!
+
+YouQuitGame: Вы проиграли, так как вышли из игры.
+
+YouRequestedLoad:		Ваш запрос на загрузку игры был отправлен другим игрокам.
+
+ZedemLeaving:		Один из ваших зедемских монахов уволился и намерен покинуть станцию.
+
+lose01:			Нет сборщика и нет энергии? Все кончено, Администратор. Мечта лежит в осколках, покачиваясь на солнечных ветрах.
+
+AronaEnd: Привет. Да, это твой старый приятель, Арона. Что, ты не узнал меня? Как бы то ни было, я должен поздравить тебя с ошеломляющим успехом. Я летал на этих космических линиях сотни лет, и никто ещё не справлялся лучше тебя с управлением станцией. Ты никогда не знал своих родителей, да? Что ж, пришло время это изменить. Понимаешь, я не только Арона Даал, Я... Твой отец! Прими cвою судьбу, присоединись ко мне и вместе мы сможем править Галактической торговой федерацией. Но не слишком радуйся, тебе еще предстоит стать Мастером торговли, таким как я. На самом деле, твоё обучение ещё только начинается...
+
+
+
+
+
+
+

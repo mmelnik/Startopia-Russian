@@ -1,0 +1,10 @@
+[AUCTION]
+AlreadyBeingAuctioned:		Это уже выставлено на аукцион.
+BiddingMoreThanYouHave:		Ваша заявка ограничена вашими энергетическими резервами!
+ReceivedNoBids:			Никто не заинтересовался вашим предложением.
+DidntReachReserve:		Назначенная вами цена оказалась слишком высокой.
+YouWon:				Вы победили в аукционе.
+SomeBidderWon:			Лот аукциона был продан.
+PlayerIsAuctioningThing: 	Был назначен аукцион.||Продавец: %s|Предмет: %s
+IgnoreEnemyBids:			Вы больше не можете участвовать в этом аукционе.
+

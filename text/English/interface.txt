@@ -1,0 +1,422 @@
+
+
+[Interface]
+Skill: Навык
+Dedication: Целеустремлённость
+Loyalty: Преданность
+CostToPromote: Повысить
+CostToHire: Нанять
+Confirm: Подтвердить
+Cancel: Отмена
+DudText: Это я, Марио
+MessageInbox: Просмотр входящих сообщений
+MessageArchive: Просмотр архива сообщений
+MessagesEmpty: (нет сообщений)
+Demolish: Демонтировать?
+CancelBlueprint: Отменить проект?
+RePackRoom: Сделать перепланировку?
+Assasinated: Шпион убил посетителя!
+SpyDeada: Ваш шпион был убит
+SpyDeadb: Ваш шпион был арестован
+SpyDeadc: Ваш шпион был раскрыт
+Spy2: Вы деморализовали посетителя команды %s
+Date: Звёздная дата
+Spod: Спод-фактор
+BuildHardplan: Сооружения
+BuildFurnitureplan: Оборудование
+BuildTechnology: Технологии
+BuildDroids: Роботы
+BuildCargo: Базовые товары
+BuildQueue: Очередь
+LabTechTree: Дерево технологий
+LabDurability: Прочность
+LabEconomy: Экономика
+LabEfficiency: Эффективность
+LabTechnology: Технология
+MissingItems: В комнате отсутствует необходимое оборудование -- без него она не будет функционировать!
+MissingDoors: В комнате отсутствуют двери! Вы должны установить их, чтобы комнату можно было построить.
+NavBlocked: Вы не можете разместить это здесь -- будет заблокирован следующий объект: %s
+NavNoDoors: В этой комнате нет дверей -- без них посетители не смогут добраться до оборудования!
+//CanNotAffordRoom: Стоимость комнаты: %d. Текущая энергия: %d.
+//CanNotAffordFurniture: Стоимость оборудования: %d. Текущая энергия: %d.
+CanNotAffordDoor: Вы не можете установить дверь сейчас. Стоимость двери: %d. Текущая энергия: %d.
+ChargedForDoor: С вас вычтено %d за дверь для комнаты.
+//RoomPlacementForbidden: Здесь нельзя разместить комнату.
+PatternBufferFull: Ваш буфер полон.
+SomeoneLostDeck: Кто-то был полностью вытеснен с палубы %d! 
+AutoSaving: Автосохранение...
+AutoSaved: Автосохранено.
+Loading: Загрузка...
+Loaded: Загружено.
+LoadFailed: Ошибка загрузки!
+Paused: П а у з а
+MustOwnAll: Вы должны завладеть всеми палубами, чтобы иметь возможность занять часть прилежащего сегмента.
+LeaveMission: Щелкните на отметку ниже, если захотите покинуть задание. Можете не торопиться.
+YouMustBeAtWarToTarget: Вы должны находиться в состоянии войны чтобы иметь возможность нацеливаться на чужое оборудование или людей.
+GiNone: GI_NONE - this text should never appear.
+ChatMessage: Чат с игроками:
+ChatEveryone: Все
+ChatNoone: Никто (!)
+YouCantPlaceTreesTooCloseToLiftsTemplesOrEachOther: Вы не можете размещать деревья слишком близко к другим объектам.
+OpeningFreshSegXYouOnlyHaveY: Открытие нового сегмента стоит %d, а у вас всего %d.
+CantPlaceRoomDoorThatCloseToStationHullWall: Вы не можете разместить дверь комнаты так близко от бортовой стены станции.
+OSDCantGoThere: Вы не можете идти сюда.
+
+[Cargo]
+NotForRecycling: Это нельзя переработать.
+GotEnough: Спасибо, но у меня уже есть достаточно.
+DontWant: Торговцу это больше не нужно.
+
+[Ships]
+NotYours: Пожалуйста, не тыкайте в корабли других игроков.
+NotThere: Я не вижу никаких кораблей.
+NotTrade: Вы не можете торговать с пассажирскими судами.
+NotReady: Корабль не в состоянии торговать прямо сейчас.
+Already: Вы уже торгуете с кем-то.
+
+[PEEPMANAGE]
+TabResi: Обитатели
+TabVisi: Посетители
+TabDroids: Роботы
+TabOverview: Обзор
+HeadingName: Имя
+HeadingSkill: Навык
+HeadingDedication: Целеустремлённость
+HeadingLoyalty: Преданность
+HeadingRank: Ранг
+HeadingCost: Цена
+HeadingMood: Настрой
+HeadingPieChart: Популярность
+HeadingGraph: График доходов
+Friend: Друг
+Foe: %d%% Враг
+SpyCam: Камера слежения
+
+[MISSIONCOUNTS]
+CuredCount: Вылечено
+DeathCount: Смертей
+RehabCount: Перевоспитанные преступники
+EscapeeCount: Сбежавшие преступники
+CrateCount: Счётчик контейнеров с пищей
+PenitantCount: Кающихся обращено
+AronaTime: Осталось оборотов
+ResearchCount: Счётчик открытий
+CargoCount: Приблизительная стоимость груза
+
+
+[Peep]
+Scutter: Сказзер МкI
+WheelScutter: Сказзер МкII
+HoverScutter: Сказзер МкIII
+PoliceScutter: Охранный сказзер
+Salthog: Грульенский солёный боров
+grey: Серый
+gor: Касвагорианец
+targ: Грекка тарг
+karmarama: Кармарама
+zedem: Зедемский монах
+scientist: Турракен
+siren: Даханийская сирена
+malesiren: Даханийская сирена
+gemslug: Полвакианский алмазный слизень
+penancesuit: Кающийся
+goma: Гома
+goulifor: Глоат
+haerocan: Птераглид
+vermin: Космопаразит
+Memau: Мимау
+Spawn: Скрашер
+Spy: Шпион
+
+[Portable]
+IndustrialCrate: Промышленные материалы
+MedicalSupplyCrate: Медицинские принадлежности
+FoodSupplyCrate: Пищевая продукция
+HardwareCrate: Аппаратура
+TechnologyCrate: Технология
+LuxuryItemCrate: Предметы роскоши
+OreCrate: Минеральная руда
+BlackMarketGoodsCrate: Товары чёрного рынка
+BombCrate: Бомба
+AlienArtifactCrate: Инопланетные артефакты
+Junk: Хлам
+Litter: Мусор
+Turdite: Экскременты
+DamagedGoodsCrate: Испорченный груз
+ScutterCrate: Сказзер
+HardplanCrate: Проекты сооружения
+FurnitureplanCrate: Проекты оборудования
+
+[Tree]
+TreeLTLM: Кедриан
+BushLTLM: Фростарианский окунь
+TreeMTLM: Мопани
+BushMTLM: Дриклинг
+TreeHTLM: Эвкалимус
+BushHTLM: Кактоидал
+TreeLTMM: Иваридия
+BushLTMM: Палабаст
+TreeMTMM: Альдебаран
+BushMTMM: Лилит
+TreeHTMM: Амадинка
+BushHTMM: Венкис
+TreeLTHM: Ашвелла
+BushLTHM: Исике
+TreeMTHM: Манготана
+BushMTHM: Суккулус
+TreeHTHM: Эбоникл
+BushHTHM: Базак
+WaterRushes: Камыш-палочник
+WaterWeeds: Водникл
+WaterLily: Лилиента
+
+[Furniture]
+Door: Дверь
+Projector: Проектор
+Workstation: Рабочая станция
+Bench: Верстак
+Microscope: Микроскоп
+MatterReplicator: Повторитель
+AnalysisBin: Анализатор
+UnfashionableTemple: Храм
+Bunk: Спальная капсула
+HealthCharts: Диагностический прибор
+WaitingCouch: Кресло ожидания
+Dispenser: Дозатор
+MediBed: Медицинская койка
+MachineThatGoesPing: Пинготрон
+XRayMachine: Зета-лучевой сканер
+SpoodianBarTable: Грубый стол
+HurbishBarTable: Стол для отдыха
+LitterBin: Мусорный ящик
+Gnmerich: Гнмерих
+Kategukhat: Категухат
+Legacy: Наследие
+Matter: Материя-Антиматерия
+Mother: Мамаша
+Planetscape: Планетоскоп
+Endeavour: Стремление
+Furies: Фурии
+Uplanter: Сеятель
+FlegicaliBarTable: Коктейльный стол
+Cell: Камера
+PlazaBench: Скамейка
+Lamp: Коридорная лампа
+FatherZeodorus: Отец Зеодорус
+Tower: Тотем Мира
+XFountain: Немодный фонтан
+Monument: Рай роботов
+LoveChair: Кресло любви
+LoveBench: Скамейка ожидания
+SpoodianBar: Элемент дикого бара
+HurbishBar: Элемент бара отдыха
+FlegicaliBar: Бар коктейлей
+SlugBar: Бар слизней
+SlugBarTable: Ракушка слизня
+TeeVee: Проектор изображений
+LavaLamp: Ультра-лампа
+Clock: Хронометр
+PlantPot: Горшок для растений
+// Unused
+Unfashionablewhatsit: Unfashionablewhatsit
+Unfashionablefountain: Unfashionablefountain
+
+
+[Room]
+FurniturePlanItems: Проекты оборудования
+HardplanItems: Проекты сооружений
+CorridorItems: Коридорные предметы
+Port: Порт
+Lift: Лифт
+Collector: Сборщик энергии
+CollectorNode: Усилитель энергии
+Berth: Комната сна
+SickBay: Лазарет
+Laboratory: Лаборатория
+DryDock: Стыковочный шлюз
+Recycler: Переработчик
+CargoBay: Грузовой трюм
+Workshop: Фабрика
+Charger: Зарядное устройство
+Vendor: Пище-о-мат
+Satcom: Комсенсор
+SecurityControl: Центр безопасности
+Disco: Дискотека
+FightingPit: Боевая арена
+HoloSuite: Голодром
+Orophux: Орофлекс
+Gyro: Гироскоп
+OneStarHotel: Звёздный отель
+TwoStarHotel: Космическая гостинница
+ThreeStarHotel: Дворец галактики
+Lavotron: Чистотрон
+Slugpartment: Апартаменты слизней
+MusicShop: Магазин музыки
+ComputerShop: Компьютерный магазин
+CurioGiftShop: Антикварный магазин
+SportsShop: Магазин досуга
+ArmySurplus: Оружейный магазин
+GeneralStore: Универмаг
+RoughBar: Дикий бар
+CocktailBar: Бар коктейлей
+BeerBar: Бар отдыха
+Casino: Рулетка
+ViewingGallery: Обзорная галерея
+Brig: Тюрьма
+Gunner: Охранная туррель
+LoveNest: Гнездо любви
+Temple: Зедемский храм
+Fountain: Фонтан на площади
+
+[Disease]
+ExplodyHead: Взрывная болезнь
+BlotchyGreen: Пятнистая зелёнка
+SpacePlague: Синяя космическая чума
+AlienSpawn: Инфицирование личинкой чужого
+CommonCold: Простуда
+RadiationSickness: Лучевая болезнь
+SolarFever: Солнечная лихорадка
+LunaPsychosis: Лунный психоз
+Nymphitus: Нимфатоз
+GutWorms: Кишечный червь
+DroopEye: Сонная болезнь
+Hyperactivitus: Гиперактивитоз
+
+
+[Tooltips]
+Accept: Принять
+Decline: Отклонить
+Idle: Пауза
+Autopsy: Производится вскрытие: %s
+Analysing: Анализируется %s
+AwaitingScientist: Ожидание данных от учёного
+Blueprint: Проект
+NotWorking: Не работает
+RoomPower: Вкл/выкл питание комнаты
+RoomDemolish: Перестроить комнату
+RoomCam: Переключиться на камеру в комнате
+RoomEdit: Перепланировка комнаты
+EnergyFood: Синтетическая пища
+CargoFood: Натуральная пища
+OreFood: Минеральная пища
+IncreasePrice: Повысить плату за использование комнаты
+DecreasePrice: Понизить плату за использование комнаты
+CargoUnpack: Распаковать груз
+MessageBack: Предыдущее сообщение
+MessageForward: Следующее сообщение
+MessageNew: Новое сообщение
+MessageArchive: Добавить сообщение к архиву
+MessageAccept: Принять
+MessageDecline: Отклонить
+MessageRespond: Перейти к месту происшествия
+MessageStore: Просмотр архива сообщений
+EjectOccupant: Вывести этого инопланетянина из сооружения
+NextPod: Следующий посетитель
+PreviousPod: Предыдущий посетитель
+ShowTechTree: Просмотр графика исследований
+CargobayHardplan: Просмотр доступных проектов комнат
+CargobayFurnitureplan: Просмотр доступных проектов оборудования
+CargobayTechnologyplan: Просмотр доступных технологических проектов
+CargobayScuzzerplan: Просмотр доступных проектов сказзеров
+CargobayCargo: Просмотр доступных припасов
+CargobayAuction: Переместите сюда предмет, чтобы продать его на аукционе
+WorkshopHardplan: Просмотр доступных контейнеров с комнатами
+WorkshopFurnitureplan: Просмотр доступных контейнеров с оборудованием
+WorkshopTechnologyplan: Просмотр доступных технологических контейнеров
+WorkshopScuzzerplan: Просмотр доступных контейнеров со сказзерами
+WorkshopCargo: Просмотр доступных припасов
+WorkshopQueue: Просмотр очереди строительства на фабрике
+WorkshopDeleteItem: Удалить выбранный предмет из очереди (с возвратом суммы)
+PeepPromoteCost: Стоимость повышения этого инопланетянина
+PeepHireCost: Стоимость найма этого инопланетянина
+PeepCash: Сколько энергии есть у этого инопланетянина
+PeepHire: Нанять этого инопланетянина
+PeepFire: Уволить этого инопланетянина
+PeepPromote: Повысить этого инопланетянина
+PeepDemote: Понизить этого инопланетянина
+PeepShoulderCam: Щелкните левой кнопкой мыши для перехода к "наплечной камере"
+PeepMoodHealth: Требует ли этот инопланетянин медицинской помощи?
+PeepMoodHunger: Голоден ли этот инопланетянин?
+PeepMoodToilet: Нуждается ли этот инопланетянин в чистке?
+PeepMoodLove: Нуждается ли этот инопланетянин в любви?
+PeepMoodFun: Скучно ли этому инопланетянину?
+PeepMoodTired: Устал ли этот инопланетянин?
+PeepMoodHappy: Нуждается ли этот инопланетянин в душевном покаянии?
+DiscoSlider: Изменить громкость дискотеки
+StockGauge: Текущий уровень припасов
+ScuzzerRepair: Ремонт комнаты и оборудования
+ScuzzerBuild: Строительство комнат
+ScuzzerRecycle: Уборка мусора
+ScuzzerClean: Чистка комнат и оборудования
+ScuzzerTasksLock: Если индикатор в подсвеченном состоянии, изменение задач будет применено ко всем сказзерам станции
+ScuzzerBattery: Заряд батареи сказзера
+ScuzzerDamage: Здоровье сказзера
+ScuzzerForceRepair: Отправить этого сказзера на ремонт
+ScuzzerForceRecharge: Отправить этого сказзера на подзарядку
+ScuzzerRename: Щелкните левой кнопкой мыши чтобы переименовать
+SecurityScuzzerArrest: Арест преступников (депортация если нет тюрьмы)
+SecurityScuzzerCaution: Предупреждать преступников (предотвращать преступление, но не предпринимать дальнейших действий)
+SecurityScuzzerIgnore: Игнорировать преступников
+SecurityScuzzerTerminate: Уничтожать преступников
+FRESHSEGMENT: Интерфейс переборки: Занять новый сегмент
+UNLOCKSEGMENT: Интерфейс переборки: Открыть двери
+LOCKSEGMENT: Интерфейс переборки: Закрыть двери
+FORCEUNLOCKSEGMENT: Интерфейс переборки: Вторжение
+TAKEOVERSEGMENT: Интерфейс переборки: Захватить сегмент
+CANCELFORCESEGMENT: Интерфейс переборки: Отмена захвата/вторжения
+MUSTOWNALL: Интерфейс переборки: Нет доступных действий
+NOACTIONAVAILABLE: Интерфейс переборки: Нет доступных действий
+HULLWALL: Переборка
+MUSTERPOINT: Точка сбора
+// FIXME: From here on has not been translated.
+OSDbiodeckland: Изменить высоту поверхности
+OSDbiodeckwater: Изменить уровень воды
+OSDbiodeckmoisture: Изменить влажность местности
+OSDbiodecktemperature: Изменить температуру почвы
+OSDbiodecktoggle: Вкл/выкл управление биопалубой
+OSDbiodecksize1: Слабая сила воздействия
+OSDbiodecksize2: Средная сила воздействия
+OSDbiodecksize3: Сильная сила воздействие
+OSDbiodecksize4: Предельная сила воздействия
+OSDpeepmanagement: Отобразить панель управления
+OSDchangedeck1: Перейти к технической палубе
+OSDchangedeck2: Перейти к палубе развлечений
+OSDchangedeck3: Перейти к биопалубе
+OSDtoggleradar: Показать карту тора
+OSDcameratoggle: Управление камерой
+OSDcameraangle: Вращайте сферу левой кнопкой мыши для изменения угла камеры
+OSDcameraheight: Перетащите ползунок левой кнопкой мыши для изменения высоты камеры
+TradeCratesTrader: Груз торговца на продажу
+TradeCratesPlayer: Ваши текущие запасы
+TradeCratesEmpty: Нет запасов
+TradeCostTrader: Стоимость покупки у торговца. Количество зелёных и красных рожиц говорит о хорошей и плохой цене соответственно
+TradeCostPlayer: Стоимость продажи торговцу. Количество зелёных и красных рожиц говорит о хорошей и плохой цене соответственно
+TradeScroll: Прокрутка списка грузов
+
+//Management Screen Text
+
+ManagementResidents: Показать список обитателей
+ManagementVisitors: Показать список посетителей
+ManagementDroids: Показать список роботов
+ManagementOverview: Показать статистику станции
+ManagementPortrait: Перейти к выбранному существу или роботу
+ManagementPeepSelected: Выбрать это существо или робота
+ManagementSlider: Прокрутка списка
+ManagementPeepToggle: Показать или скрыть этот тип в списке
+ManagementPopularity: Как популярна ваша секция станции по сравнению с участками других администраторов
+ManagementMoods: Среднее настроение населения вашей станции
+ManagementOverallMood: Общее счастье вашего населения
+ManagementGraph: Доход (зелёным) расход (красным) за последние 10 минут
+ManagementDiplomacy: Дипломатический статус других администраторов
+
+
+
+[PDA]
+Winner: Победа!
+Loser: Провал! В бесконечный космос...
+Revisit: Повтор задания
+Replay: Переиграть уровень
+Resume: Продолжить игру
+NextLevel: След. уровень
+MainMenu: Главное меню
+

@@ -1,0 +1,18 @@
+[VAL]
+// Er...can you not just make these things up? There were prefectly good ones in GeneralMessages.txt
+//SegmentBreach: Warning! One of your segments is being breached!
+//SegmentOver: Warning! A rival is attempting a hostile takeover!
+
+//	Mood Messages.
+VisUnhappy:	Вашим посетителям не хватает счастья.
+VisTired:	Ваши посетители хотят спать.
+VisHungry:	Ваши посетители хотят есть.
+VisBored:	Вашим посетителям скучно.
+VisDirty:	Ваши посетители хотят мыться.
+VisHorny:	Вашим посетителям не хватает любви.
+ResUnhappy:	Вашим работникам не хватает счастья.
+ResTired:	Ваши работники хотят спать.
+ResHungry:	Ваши работники хотят есть.
+ResBored:	Вашим работникам скучно.
+ResDirty:	Ваши работники хотят мыться.
+ResHorny:	Вашим работникам не хватает любви.

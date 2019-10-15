@@ -1,0 +1,12 @@
+
+[TRADE]
+ShipDetected:			Около вашей станции обнаружен торговый корабль!
+AronaReceived:			Арона получил ваш ответ...
+TraderReceived:			Торговец получил ваш ответ...
+AronaBusy:				Арона чем-то занят.
+TraderBusy:				Торговец чем-то занят.
+AronaGone:				Арона улетел.
+TraderLeaving:			Торговец покидает станцию.
+TraderGone:				Торговец улетел.
+
+
