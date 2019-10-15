@@ -103,7 +103,7 @@ Password: 		Пароль
 WinEnergy:		Победная энергия
 WinTerritory:	Победная территория
 WinResearch:	Победные исследования
-WinScore:		Победный счёт
+WinScore:		Победный счет
 Chat:			Чат
 Slow:			Медленно
 ModerateSpeed:		Средне
@@ -129,7 +129,7 @@ Disabled:		Отключено
 Energy:		Энергия:
 Territory:	Территория:
 Research:	Исследования:
-Score:		Счёт:
+Score:		Счет:
 
 
 [STARTOFDAY]

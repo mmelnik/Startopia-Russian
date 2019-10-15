@@ -2,7 +2,7 @@
 
 [Interface]
 Skill: Навык
-Dedication: Целеустремлённость
+Dedication: Целеустремленность
 Loyalty: Преданность
 CostToPromote: Повысить
 CostToHire: Нанять
@@ -20,7 +20,7 @@ SpyDeada: Ваш шпион был убит
 SpyDeadb: Ваш шпион был арестован
 SpyDeadc: Ваш шпион был раскрыт
 Spy2: Вы деморализовали посетителя команды %s
-Date: Звёздная дата
+Date: Звездная дата
 Spod: Спод-фактор
 BuildHardplan: Сооружения
 BuildFurnitureplan: Оборудование
@@ -81,7 +81,7 @@ TabDroids: Роботы
 TabOverview: Обзор
 HeadingName: Имя
 HeadingSkill: Навык
-HeadingDedication: Целеустремлённость
+HeadingDedication: Целеустремленность
 HeadingLoyalty: Преданность
 HeadingRank: Ранг
 HeadingCost: Цена
@@ -97,10 +97,10 @@ CuredCount: Вылечено
 DeathCount: Смертей
 RehabCount: Перевоспитанные преступники
 EscapeeCount: Сбежавшие преступники
-CrateCount: Счётчик контейнеров с пищей
+CrateCount: Счетчик контейнеров с пищей
 PenitantCount: Кающихся обращено
 AronaTime: Осталось оборотов
-ResearchCount: Счётчик открытий
+ResearchCount: Счетчик открытий
 CargoCount: Приблизительная стоимость груза
 
 
@@ -109,7 +109,7 @@ Scutter: Сказзер МкI
 WheelScutter: Сказзер МкII
 HoverScutter: Сказзер МкIII
 PoliceScutter: Охранный сказзер
-Salthog: Грульенский солёный боров
+Salthog: Грульенский соленый боров
 grey: Серый
 gor: Касвагорианец
 targ: Грекка тарг
@@ -136,7 +136,7 @@ HardwareCrate: Аппаратура
 TechnologyCrate: Технология
 LuxuryItemCrate: Предметы роскоши
 OreCrate: Минеральная руда
-BlackMarketGoodsCrate: Товары чёрного рынка
+BlackMarketGoodsCrate: Товары черного рынка
 BombCrate: Бомба
 AlienArtifactCrate: Инопланетные артефакты
 Junk: Хлам
@@ -246,7 +246,7 @@ FightingPit: Боевая арена
 HoloSuite: Голодром
 Orophux: Орофлекс
 Gyro: Гироскоп
-OneStarHotel: Звёздный отель
+OneStarHotel: Звездный отель
 TwoStarHotel: Космическая гостинница
 ThreeStarHotel: Дворец галактики
 Lavotron: Чистотрон
@@ -270,7 +270,7 @@ Fountain: Фонтан на площади
 
 [Disease]
 ExplodyHead: Взрывная болезнь
-BlotchyGreen: Пятнистая зелёнка
+BlotchyGreen: Пятнистая зеленка
 SpacePlague: Синяя космическая чума
 AlienSpawn: Инфицирование личинкой чужого
 CommonCold: Простуда
@@ -289,7 +289,7 @@ Decline: Отклонить
 Idle: Пауза
 Autopsy: Производится вскрытие: %s
 Analysing: Анализируется %s
-AwaitingScientist: Ожидание данных от учёного
+AwaitingScientist: Ожидание данных от ученого
 Blueprint: Проект
 NotWorking: Не работает
 RoomPower: Вкл/выкл питание комнаты
@@ -389,8 +389,8 @@ OSDcameraheight: Перетащите ползунок левой кнопкой мыши для изменения высоты кам
 TradeCratesTrader: Груз торговца на продажу
 TradeCratesPlayer: Ваши текущие запасы
 TradeCratesEmpty: Нет запасов
-TradeCostTrader: Стоимость покупки у торговца. Количество зелёных и красных рожиц говорит о хорошей и плохой цене соответственно
-TradeCostPlayer: Стоимость продажи торговцу. Количество зелёных и красных рожиц говорит о хорошей и плохой цене соответственно
+TradeCostTrader: Стоимость покупки у торговца. Количество зеленых и красных рожиц говорит о хорошей и плохой цене соответственно
+TradeCostPlayer: Стоимость продажи торговцу. Количество зеленых и красных рожиц говорит о хорошей и плохой цене соответственно
 TradeScroll: Прокрутка списка грузов
 
 //Management Screen Text
@@ -406,7 +406,7 @@ ManagementPeepToggle: Показать или скрыть этот тип в списке
 ManagementPopularity: Как популярна ваша секция станции по сравнению с участками других администраторов
 ManagementMoods: Среднее настроение населения вашей станции
 ManagementOverallMood: Общее счастье вашего населения
-ManagementGraph: Доход (зелёным) расход (красным) за последние 10 минут
+ManagementGraph: Доход (зеленым) расход (красным) за последние 10 минут
 ManagementDiplomacy: Дипломатический статус других администраторов
 
 

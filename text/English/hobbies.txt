@@ -7,7 +7,7 @@ Collectingsmallmodelreptoids: Коллекционирование небольших моделей рептоидов
 Starshipspotting: Обнаружение кораблей
 Antigravitycooking: Антигравитационная кухня
 Playingspaceguitar: Игра на космической гитаре
-Miniaturespace-wargaming: Игра в миниатюрные звёздные войны
+Miniaturespace-wargaming: Игра в миниатюрные звездные войны
 Asteroidclimbing: Астероидный альпинизм
 Antigravitydancing: Антигравитационные танцы
 Inventingthings: Изобретательство
@@ -19,12 +19,12 @@ Playingvideogames: Видеоигры
 TakingcareoflostMemau: Забота о потерянных мимау
 PolishingSkrasherchitin: Полировка хитина скрашеров
 BreedingYabberjacks: Разведение ябберджеков
-Photographingblackholes: Фотографирование чёрных дыр
+Photographingblackholes: Фотографирование черных дыр
 Buildingmodelstarships: Построение модельных кораблей
 EnvironmentalIssues: Защита окружающей среды
 Politics: Политика
 WatchingZ-ratedfilms: Просмотр низкорейтинговых фильмов
-Solarsurfing: Солнечный сёрфинг
+Solarsurfing: Солнечный серфинг
 Chasingcomets: Охота за кометами
 Catchingfallingstars: Ловля падающих звезд
 Diningout: Ужины в ресторанах
@@ -42,7 +42,7 @@ Hitch-hikingacrosstheGalaxy: Путешествие автостопом по галактике
 Growingbonsaiplanets: Выращивание карликовых планет
 ListeningtothespacerockbandTheRollingAsteroids: Прослушивание рок-группы Роллинг Астероидз
 ListeningtothespacerocklegendBruceWarpsteen: Прослушивание рок-легенды Брюса Варпстина
-CountingthenumberofstarsintheMungoidNebula: Подсчёт звёзд в Кашевидной туманности
+CountingthenumberofstarsintheMungoidNebula: Подсчет звезд в Кашевидной туманности
 Listeningtothemusicofthespheres: Слушать музыку сфер
 Tryingtoaudiblyscreaminspace: Пытаться слышно крикнуть в космосе
 Collectingthetinyplastictablesyougetinpizzaboxes: Коллекционирование одноразовых пластиковых подставок из-под пиццы
@@ -57,7 +57,7 @@ Watchingkettlesboil: Наблюдение за кипящим чайником
 PlayingUrbanChaosfromMuckyFoot: Играть в Урбан Хаос от Маки Фут
 Zero-gweightlifting: Поднятие тяжестей в условиях невесомости
 Lickingwindows: Облизывать окна
-Shootingstars: Стрельба по звёздам
+Shootingstars: Стрельба по звездам
 Bogsnorkelling: Болотное ныряние с маской
 Muffdiving: Погружение в Глубокое море спокойствия
 Buildinglogcabins: Строительство хижин из бревен
@@ -95,8 +95,8 @@ Quantumleaping: Квантовые прыжки
 Travellingfasterthanlight: Путешествие со скоростью выше скорости света
 Scaringyoungpodlings: Пугание юных подлингов
 Runningahydroponicfarm: Гидропоническая ферма
-Namingminorstars: Придумывать имена мелким звёздам
-Wormholesurfing: Сёрфинг в червоточинах
+Namingminorstars: Придумывать имена мелким звездам
+Wormholesurfing: Серфинг в червоточинах
 Listeningforpeoplescreaminginspace: Слушать крики людей в космосе
 Waitingforthenextbigbang: Ожидание следующего Большого взрыва
 TellingjokesaboutEarthlings: Рассказывать анекдоты про землян
