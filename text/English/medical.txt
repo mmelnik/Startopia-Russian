@@ -1,6 +1,6 @@
 
 [Medical]
-PostMortem: Постсмертное вскрытие %s.
+PostMortem: Посмертное вскрытие %s.
 CarriedOutBy: Исследователь: %s.
 Species: Вид жертвы: %s.
 BornOn: Родная планета: %s.

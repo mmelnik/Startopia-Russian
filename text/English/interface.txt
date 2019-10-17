@@ -131,7 +131,7 @@ Spy: Шпион
 [Portable]
 IndustrialCrate: Промышленные материалы
 MedicalSupplyCrate: Медицинские принадлежности
-FoodSupplyCrate: Пищевая продукция
+FoodSupplyCrate: Органическая пища
 HardwareCrate: Аппаратура
 TechnologyCrate: Технология
 LuxuryItemCrate: Предметы роскоши
@@ -144,8 +144,8 @@ Litter: Мусор
 Turdite: Экскременты
 DamagedGoodsCrate: Испорченный груз
 ScutterCrate: Сказзер
-HardplanCrate: Проекты сооружения
-FurnitureplanCrate: Проекты оборудования
+HardplanCrate: Проект сооружения
+FurnitureplanCrate: Проект оборудования
 
 [Tree]
 TreeLTLM: Кедриан
@@ -182,18 +182,18 @@ UnfashionableTemple: Храм
 Bunk: Спальная капсула
 HealthCharts: Диагностический прибор
 WaitingCouch: Кресло ожидания
-Dispenser: Дозатор
+Dispenser: Распылитель
 MediBed: Медицинская койка
 MachineThatGoesPing: Пинготрон
 XRayMachine: Зета-лучевой сканер
 SpoodianBarTable: Грубый стол
 HurbishBarTable: Стол для отдыха
-LitterBin: Мусорный ящик
+LitterBin: Урна
 Gnmerich: Гнмерих
 Kategukhat: Категухат
 Legacy: Наследие
 Matter: Материя-Антиматерия
-Mother: Мамаша
+Mother: Матерь
 Planetscape: Планетоскоп
 Endeavour: Стремление
 Furies: Фурии
@@ -230,25 +230,25 @@ Port: Порт
 Lift: Лифт
 Collector: Сборщик энергии
 CollectorNode: Усилитель энергии
-Berth: Комната сна
+Berth: Комната для сна
 SickBay: Лазарет
 Laboratory: Лаборатория
 DryDock: Стыковочный шлюз
 Recycler: Переработчик
 CargoBay: Грузовой трюм
 Workshop: Фабрика
-Charger: Зарядное устройство
+Charger: Зарядная станция
 Vendor: Пище-о-мат
 Satcom: Комсенсор
-SecurityControl: Центр безопасности
+SecurityControl: Центр управления безопасностью
 Disco: Дискотека
 FightingPit: Боевая арена
 HoloSuite: Голодром
 Orophux: Орофлекс
 Gyro: Гироскоп
-OneStarHotel: Звездный отель
+OneStarHotel: Звездный мотель
 TwoStarHotel: Космическая гостинница
-ThreeStarHotel: Дворец галактики
+ThreeStarHotel: Дворец "Галактика"
 Lavotron: Чистотрон
 Slugpartment: Апартаменты слизней
 MusicShop: Магазин музыки
@@ -257,9 +257,9 @@ CurioGiftShop: Антикварный магазин
 SportsShop: Магазин досуга
 ArmySurplus: Оружейный магазин
 GeneralStore: Универмаг
-RoughBar: Дикий бар
-CocktailBar: Бар коктейлей
-BeerBar: Бар отдыха
+RoughBar: Суровый бар
+CocktailBar: Коктейльный бар
+BeerBar: Оздоровительный бар
 Casino: Рулетка
 ViewingGallery: Обзорная галерея
 Brig: Тюрьма

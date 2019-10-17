@@ -1,5 +1,5 @@
 [index]
-ThisLanguageIs: English
+ThisLanguageIs: Russian
 
 [lev01]
 >lev01.txt

@@ -71,16 +71,16 @@ Quality: Качество
 High: Высокое
 Medium: Среднее
 Low: Низкое
-CacheSize: Звуковая память
+CacheSize: Размер звукового кеша
 
 
 
 
 // sandbox options
-DeclaringWar: Позволить войну между игроками.
+DeclaringWar: Разрешить войну между игроками.
 Always100000Energy: Дать вам 100000 энергии.
 EverythingResearched: Мгновенно
-NumberOfAIs: Количество компьютерных игроков
+NumberOfAIs: Компьютерные игроки
 NoAIs: 		Нет
 OneAI: 		Один
 TwoAIs: 		Два
@@ -91,8 +91,8 @@ Energy: 		Энергия
 Energy0:		200000
 Energy1:		100000
 Energy2:		50000
-Visitors: 		Посетители должны быть счастливы
-Residents: 		Резиденты должны быть счастливы
+Visitors: 		Поддерживать счастье посетителей
+Residents: 		Поддерживать счастье жителей
 Flares: 		Солнечные вспышки
 Meteors: 		Метеориты
 Quakes: 		Звездотрясения
@@ -100,9 +100,9 @@ Spies: 		Шпионы
 GameTitle: 		Заголовок игры
 Icon:			Иконка игрока
 Password: 		Пароль
-WinEnergy:		Победная энергия
-WinTerritory:	Победная территория
-WinResearch:	Победные исследования
+WinEnergy:		Собрать количество энергии
+WinTerritory:	Захватить количество территорий
+WinResearch:	Провести количество исследований
 WinScore:		Победный счет
 Chat:			Чат
 Slow:			Медленно

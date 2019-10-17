@@ -1,44 +1,44 @@
 
 [Hobbies]
-Flowerpressing: Топтание цветов
+Flowerpressing: Вытаптывать цветы
 Fishing: Рыболовство
-CollectingfineBongoolianMucusWine: Коллекционирование бонгулианского слизистого вина
-Collectingsmallmodelreptoids: Коллекционирование небольших моделей рептоидов
+CollectingfineBongoolianMucusWine: Коллекционировать бонгулианское слизистое вино
+Collectingsmallmodelreptoids: Коллекционировать небольшие модели рептоидов
 Starshipspotting: Обнаружение кораблей
 Antigravitycooking: Антигравитационная кухня
 Playingspaceguitar: Игра на космической гитаре
-Miniaturespace-wargaming: Игра в миниатюрные звездные войны
+Miniaturespace-wargaming: Играть в миниатюрные звездные войны
 Asteroidclimbing: Астероидный альпинизм
 Antigravitydancing: Антигравитационные танцы
 Inventingthings: Изобретательство
-Weaponsresearch: Разработка оружия
+Weaponsresearch: Разработка новых видов оружия
 Meteorracing: Гонки на метеоритах
 Cybernetics: Кибернетика
 Ancientlanguages: Древние языки
 Playingvideogames: Видеоигры
 TakingcareoflostMemau: Забота о потерянных мимау
-PolishingSkrasherchitin: Полировка хитина скрашеров
+PolishingSkrasherchitin: Полировка панцирей скрашеров
 BreedingYabberjacks: Разведение ябберджеков
-Photographingblackholes: Фотографирование черных дыр
+Photographingblackholes: Фотографировать черные дыры
 Buildingmodelstarships: Построение модельных кораблей
 EnvironmentalIssues: Защита окружающей среды
 Politics: Политика
 WatchingZ-ratedfilms: Просмотр низкорейтинговых фильмов
 Solarsurfing: Солнечный серфинг
 Chasingcomets: Охота за кометами
-Catchingfallingstars: Ловля падающих звезд
-Diningout: Ужины в ресторанах
+Catchingfallingstars: Ловить падающие звезды
+Diningout: Ужинать в ресторанах
 Goingboldlywherenoalienhasgonebefore: Бывать там, где прежде не ступала нога инопланетянина
 Duellingwithlaserswords: Дуэли на лазерных мечах
 BreedingSpawn: Разведение грибов
-Ponderingtheanswertotheultimatequestion: Поиск ответа на основной вопрос
-Restoringolddroids: Восстановление старых роботов
+Ponderingtheanswertotheultimatequestion: Искать ответ на основной вопрос
+Restoringolddroids: Ремонтировать старых роботов
 HuntingGlaoths: Охота на глаотов
 SpreadingthewordofZedem: Распространение слова Зедема
 SavingthePhinray: Уход за финреем
 Collectingspacerocks: Коллекционирование космических камней
 Solarsailing: Плавание под солнечным парусом
-Hitch-hikingacrosstheGalaxy: Путешествие автостопом по галактике
+Hitch-hikingacrosstheGalaxy: Путешествовать по галактике автостопом
 Growingbonsaiplanets: Выращивание карликовых планет
 ListeningtothespacerockbandTheRollingAsteroids: Прослушивание рок-группы Роллинг Астероидз
 ListeningtothespacerocklegendBruceWarpsteen: Прослушивание рок-легенды Брюса Варпстина
@@ -53,7 +53,7 @@ BitingoffmorethanIcanchew: Откусывать больше, чем можно прожевать
 CollectingusedSirenunderwear: Коллекционирование перьев из крыльев сирен
 Collectingsecondhandtoiletpaper: Коллекционирование б/у сказзеров
 Collectingsphinctergasesforlaterenjoyment: Сбор веселящего газа для дальнейшего наслаждения
-Watchingkettlesboil: Наблюдение за кипящим чайником
+Watchingkettlesboil: Наблюдать за кипящим чайником
 PlayingUrbanChaosfromMuckyFoot: Играть в Урбан Хаос от Маки Фут
 Zero-gweightlifting: Поднятие тяжестей в условиях невесомости
 Lickingwindows: Облизывать окна
@@ -78,35 +78,35 @@ Passingthetimeofday: Убивание времени
 Spreadinggossip: Распространение сплетен
 Swimming: Плавание
 Bottomburpingcompetitions: Соревнования по отрыжке
-Collectingtoenailclippings: Коллекционирование обрезков ногтей
+Collectingtoenailclippings: Коллекционировать обрезки ногтей
 Proboscispicking: Собирательство хоботом
-PrayingtoOrbastangtheSunGod: Поклонение Орбастангу, богу солнца
+PrayingtoOrbastangtheSunGod: Поклонение Орбастангу, богу Солнца
 Chillingoutwithfriends: Болтовня с друзьями
 Drinkingvastquantitiesofspacebooze: Поглощение больших количеств космического сока
-Practicaljokes: Шутки на практике
+Practicaljokes: Разыгрывать окружающих
 Beinghappy: Быть счастливым
 Omnicycling: Езда на омницикле
-Collectingexoticweaponry: Коллекционирование экзотического оружия
+Collectingexoticweaponry: Коллекционировать экзотические виды оружия
 Tombraiding: Расхищение гробниц
-ReadingNationalGeomorphicMagazine: Чтение журналов "Нейшенел геоморфик"
+ReadingNationalGeomorphicMagazine: Чтение журналов "Нэшнл геоморфик"
 LearningTelepathy: Изучение телепатии
-BecomingonewiththeMultiverse: Соеденение в одно целое с мультивселенной
+BecomingonewiththeMultiverse: Соединяться в одно целое с мультивселенной
 Quantumleaping: Квантовые прыжки
-Travellingfasterthanlight: Путешествие со скоростью выше скорости света
+Travellingfasterthanlight: Путешествия со скоростью выше скорости света
 Scaringyoungpodlings: Пугание юных подлингов
 Runningahydroponicfarm: Гидропоническая ферма
 Namingminorstars: Придумывать имена мелким звездам
 Wormholesurfing: Серфинг в червоточинах
 Listeningforpeoplescreaminginspace: Слушать крики людей в космосе
-Waitingforthenextbigbang: Ожидание следующего Большого взрыва
+Waitingforthenextbigbang: Ожидать следующий Большой взрыв
 TellingjokesaboutEarthlings: Рассказывать анекдоты про землян
-GrievingforrelativeslostatRoswell: Тоска по родственникам, потерянным в Розуэлле
+GrievingforrelativeslostatRoswell: Оплакивать родственников, погибших в Розуэлле
 Abductingpeople: Похищение людей
-Mutilatingcattle: Калеченье крупного рогатого скота
-HoveringoverMexicoCity: Парение над Мехико в летающей тарелке
-Irritatingthemilitary: Надоедание военным
+Mutilatingcattle: Калечить крупный рогатый скот
+HoveringoverMexicoCity: Парить над Мехико в летающей тарелке
+Irritatingthemilitary: Раздражать военных с других планет
 Mindmelding: Объединяться разумами
-Warping: Деформация
+Warping: Искривление пространства
 Evolving: Эволюционирование
 Spiritualenhancement: Духовное совершенствование
 Decodingradiowaves: Декодирование радиоволн
