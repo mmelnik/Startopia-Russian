@@ -9,9 +9,9 @@ ConCursorS: Клавиши стрелок + Shift
 ConCursorC: Клавиши стрелок + Ctrl
 ConCursorCS: Клавиши стрелок + Shift + Ctrl
 ConMouseS: Мышь + Shift
-ConMouseC: Мышь + Ctrl/Средняя кнопка мыши
-ConMouseCS: Мышь + Shift + Ctrl/Средняя кнопка мыши
-ConMouseEdge: Мышь на границу экрана
+ConMouseC: Мышь + Ctrl/СКМ
+ConMouseCS: Мышь + Shift + Ctrl/СКМ
+ConMouseEdge: Мышь на границе экрана
 
 // 2D Control options.
 ConMove: Движение
@@ -19,15 +19,15 @@ ConLook: Обзор
 ConPivot: Поворот
 
 // 1D controls.
-ConMouseWheel: Колесо мыши
-ConMouseWheelPressed: Нажатие на колесо мыши
+ConMouseWheel: Колесико мыши
+ConMouseWheelPressed: Нажатие на колесико мыши
 ConPgUpPgDn: Page Up/Down
 ConHomeEnd: Home/End
 ConInsDel: Insert/Delete
 ConPlusMinus: Плюс/Минус
 ConSquareBrackets: Квадратные скобки [ ]
-ConPadPlusMinus: Плюс/Минус на цифр. клавиатуре
-ConPadTimesDivide: Умножить/Делить на цифр. клавиатуре
+ConPadPlusMinus: Плюс/Минус на цифр. кл.
+ConPadTimesDivide: Умножить/Делить на цифр. кл.
 
 // The mouse wheel sliders.
 Sensitivity: Чувствительность

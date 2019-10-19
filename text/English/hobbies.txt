@@ -3,7 +3,7 @@
 Flowerpressing: Вытаптывать цветы
 Fishing: Рыболовство
 CollectingfineBongoolianMucusWine: Коллекционировать бонгулианское слизистое вино
-Collectingsmallmodelreptoids: Коллекционировать небольшие модели рептоидов
+Collectingsmallmodelreptoids: Коллекционировать небольшие модели рептилоидов
 Starshipspotting: Обнаружение кораблей
 Antigravitycooking: Антигравитационная кухня
 Playingspaceguitar: Игра на космической гитаре

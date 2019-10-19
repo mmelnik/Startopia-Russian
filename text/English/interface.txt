@@ -1,9 +1,9 @@
 
 
 [Interface]
-Skill: Навык
-Dedication: Целеустремленность
-Loyalty: Преданность
+Skill: Навыки
+Dedication: Увлеченность
+Loyalty: Верность
 CostToPromote: Повысить
 CostToHire: Нанять
 Confirm: Подтвердить
@@ -52,8 +52,8 @@ LoadFailed: Ошибка загрузки!
 Paused: П а у з а
 MustOwnAll: Вы должны завладеть всеми палубами, чтобы иметь возможность занять часть прилежащего сегмента.
 LeaveMission: Щелкните на отметку ниже, если захотите покинуть задание. Можете не торопиться.
-YouMustBeAtWarToTarget: Вы должны находиться в состоянии войны чтобы иметь возможность нацеливаться на чужое оборудование или людей.
-GiNone: GI_NONE - this text should never appear.
+YouMustBeAtWarToTarget: Вы должны находиться в состоянии войны чтобы иметь возможность атаковать чужое оборудование или людей.
+GiNone: GI_NONE -- this text should never appear.
 ChatMessage: Чат с игроками:
 ChatEveryone: Все
 ChatNoone: Никто (!)
@@ -80,10 +80,10 @@ TabVisi: Посетители
 TabDroids: Роботы
 TabOverview: Обзор
 HeadingName: Имя
-HeadingSkill: Навык
-HeadingDedication: Целеустремленность
-HeadingLoyalty: Преданность
-HeadingRank: Ранг
+HeadingSkill: Навыки
+HeadingDedication: Увлеченность
+HeadingLoyalty: Верность
+HeadingRank: Разряд
 HeadingCost: Цена
 HeadingMood: Настрой
 HeadingPieChart: Популярность
@@ -105,11 +105,11 @@ CargoCount: Приблизительная стоимость груза
 
 
 [Peep]
-Scutter: Сказзер МкI
-WheelScutter: Сказзер МкII
-HoverScutter: Сказзер МкIII
+Scutter: Сказзер Мак I
+WheelScutter: Сказзер Мак II
+HoverScutter: Сказзер Мак III
 PoliceScutter: Охранный сказзер
-Salthog: Грульенский соленый боров
+Salthog: Соленый боров
 grey: Серый
 gor: Касвагорианец
 targ: Грекка тарг
@@ -118,7 +118,7 @@ zedem: Зедемский монах
 scientist: Турракен
 siren: Даханийская сирена
 malesiren: Даханийская сирена
-gemslug: Полвакианский алмазный слизень
+gemslug: Алмазный слизень
 penancesuit: Кающийся
 goma: Гома
 goulifor: Глоат
@@ -129,19 +129,19 @@ Spawn: Скрашер
 Spy: Шпион
 
 [Portable]
-IndustrialCrate: Промышленные материалы
-MedicalSupplyCrate: Медицинские принадлежности
+IndustrialCrate: Промматериалы
+MedicalSupplyCrate: Медикаменты
 FoodSupplyCrate: Органическая пища
 HardwareCrate: Аппаратура
 TechnologyCrate: Технология
 LuxuryItemCrate: Предметы роскоши
 OreCrate: Минеральная руда
-BlackMarketGoodsCrate: Товары черного рынка
+BlackMarketGoodsCrate: Товары черн. рынка
 BombCrate: Бомба
-AlienArtifactCrate: Инопланетные артефакты
+AlienArtifactCrate: Инопл. артефакты
 Junk: Хлам
 Litter: Мусор
-Turdite: Экскременты
+Turdite: Турдит
 DamagedGoodsCrate: Испорченный груз
 ScutterCrate: Сказзер
 HardplanCrate: Проект сооружения
@@ -172,7 +172,7 @@ WaterLily: Лилиента
 
 [Furniture]
 Door: Дверь
-Projector: Проектор
+Projector: Анализатор
 Workstation: Рабочая станция
 Bench: Верстак
 Microscope: Микроскоп
@@ -180,40 +180,40 @@ MatterReplicator: Повторитель
 AnalysisBin: Анализатор
 UnfashionableTemple: Храм
 Bunk: Спальная капсула
-HealthCharts: Диагностический прибор
+HealthCharts: Аппарат диагностики
 WaitingCouch: Кресло ожидания
 Dispenser: Распылитель
-MediBed: Медицинская койка
+MediBed: Медицинская кушетка
 MachineThatGoesPing: Пинготрон
 XRayMachine: Зета-лучевой сканер
-SpoodianBarTable: Грубый стол
-HurbishBarTable: Стол для отдыха
+SpoodianBarTable: Укрепленный стол
+HurbishBarTable: Столик
 LitterBin: Урна
 Gnmerich: Гнмерих
 Kategukhat: Категухат
 Legacy: Наследие
-Matter: Материя-Антиматерия
+Matter: Материя-антиматерия
 Mother: Матерь
 Planetscape: Планетоскоп
 Endeavour: Стремление
 Furies: Фурии
 Uplanter: Сеятель
-FlegicaliBarTable: Коктейльный стол
+FlegicaliBarTable: Коктейльный столик
 Cell: Камера
 PlazaBench: Скамейка
 Lamp: Коридорная лампа
 FatherZeodorus: Отец Зеодорус
-Tower: Тотем Мира
+Tower: Тотем мира
 XFountain: Немодный фонтан
 Monument: Рай роботов
 LoveChair: Кресло любви
-LoveBench: Скамейка ожидания
-SpoodianBar: Элемент дикого бара
-HurbishBar: Элемент бара отдыха
+LoveBench: Кресло ожидания
+SpoodianBar: Барная стойка
+HurbishBar: Барная стойка
 FlegicaliBar: Бар коктейлей
-SlugBar: Бар слизней
-SlugBarTable: Ракушка слизня
-TeeVee: Проектор изображений
+SlugBar: Барная стойка
+SlugBarTable: Ракушка для слизня
+TeeVee: Цифровой проектор
 LavaLamp: Ультра-лампа
 Clock: Хронометр
 PlantPot: Горшок для растений
@@ -240,33 +240,33 @@ Workshop: Фабрика
 Charger: Зарядная станция
 Vendor: Пище-о-мат
 Satcom: Комсенсор
-SecurityControl: Центр управления безопасностью
+SecurityControl: Управление охраны
 Disco: Дискотека
 FightingPit: Боевая арена
 HoloSuite: Голодром
 Orophux: Орофлекс
 Gyro: Гироскоп
 OneStarHotel: Звездный мотель
-TwoStarHotel: Космическая гостинница
+TwoStarHotel: Космич. гостиница
 ThreeStarHotel: Дворец "Галактика"
 Lavotron: Чистотрон
-Slugpartment: Апартаменты слизней
+Slugpartment: Кальянная слизней
 MusicShop: Магазин музыки
-ComputerShop: Компьютерный магазин
-CurioGiftShop: Антикварный магазин
+ComputerShop: Магазин техники
+CurioGiftShop: Антикварная лавка
 SportsShop: Магазин досуга
 ArmySurplus: Оружейный магазин
 GeneralStore: Универмаг
 RoughBar: Суровый бар
-CocktailBar: Коктейльный бар
-BeerBar: Оздоровительный бар
-Casino: Рулетка
+CocktailBar: Бар коктейлей
+BeerBar: Паб
+Casino: Казино
 ViewingGallery: Обзорная галерея
 Brig: Тюрьма
 Gunner: Охранная туррель
 LoveNest: Гнездо любви
 Temple: Зедемский храм
-Fountain: Фонтан на площади
+Fountain: Площадь-фонтан
 
 [Disease]
 ExplodyHead: Взрывная болезнь
@@ -375,7 +375,7 @@ OSDbiodeckmoisture: Изменить влажность местности
 OSDbiodecktemperature: Изменить температуру почвы
 OSDbiodecktoggle: Вкл/выкл управление биопалубой
 OSDbiodecksize1: Слабая сила воздействия
-OSDbiodecksize2: Средная сила воздействия
+OSDbiodecksize2: Средняя сила воздействия
 OSDbiodecksize3: Сильная сила воздействие
 OSDbiodecksize4: Предельная сила воздействия
 OSDpeepmanagement: Отобразить панель управления

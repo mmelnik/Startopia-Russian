@@ -11,8 +11,8 @@ On: Вкл
 Off: Выкл
 Glossiness: Глянцевость
 SafeMode: Безопасный режим
-SafeModeOn: Безопасный режим: Вкл
-SafeModeOff: Безопасный режим: Выкл
+SafeModeOn: Безопасн. режим: Вкл
+SafeModeOff: Безопасн. режим: Выкл
 LevelOfDetail: Уровень детализации
 Auto: Авто
 Manual: Вручную
@@ -77,8 +77,8 @@ CacheSize: Размер звукового кеша
 
 
 // sandbox options
-DeclaringWar: Разрешить войну между игроками.
-Always100000Energy: Дать вам 100000 энергии.
+DeclaringWar: Разрешить игрокам войну
+Always100000Energy: Постоянные 100000 энергии
 EverythingResearched: Мгновенно
 NumberOfAIs: Компьютерные игроки
 NoAIs: 		Нет
@@ -91,19 +91,19 @@ Energy: 		Энергия
 Energy0:		200000
 Energy1:		100000
 Energy2:		50000
-Visitors: 		Поддерживать счастье посетителей
-Residents: 		Поддерживать счастье жителей
+Visitors: 		Счастье посетителей
+Residents: 		Счастье жителей
 Flares: 		Солнечные вспышки
 Meteors: 		Метеориты
 Quakes: 		Звездотрясения
 Spies: 		Шпионы
-GameTitle: 		Заголовок игры
+GameTitle: 		Имя игры
 Icon:			Иконка игрока
 Password: 		Пароль
-WinEnergy:		Собрать количество энергии
-WinTerritory:	Захватить количество территорий
-WinResearch:	Провести количество исследований
-WinScore:		Победный счет
+WinEnergy:		Собрать энергию
+WinTerritory:	Захватить территории
+WinResearch:	Провести исследования
+WinScore:		Набрать очки
 Chat:			Чат
 Slow:			Медленно
 ModerateSpeed:		Средне
