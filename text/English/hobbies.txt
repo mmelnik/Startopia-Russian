@@ -1,116 +1,116 @@
 
 [Hobbies]
-Flowerpressing: Вытаптывать цветы
-Fishing: Рыболовство
-CollectingfineBongoolianMucusWine: Коллекционировать бонгулианское слизистое вино
-Collectingsmallmodelreptoids: Коллекционировать небольшие модели рептилоидов
-Starshipspotting: Обнаружение кораблей
-Antigravitycooking: Антигравитационная кухня
-Playingspaceguitar: Игра на космической гитаре
-Miniaturespace-wargaming: Играть в миниатюрные звездные войны
-Asteroidclimbing: Астероидный альпинизм
-Antigravitydancing: Антигравитационные танцы
-Inventingthings: Изобретательство
-Weaponsresearch: Разработка новых видов оружия
-Meteorracing: Гонки на метеоритах
-Cybernetics: Кибернетика
-Ancientlanguages: Древние языки
-Playingvideogames: Видеоигры
-TakingcareoflostMemau: Забота о потерянных мимау
-PolishingSkrasherchitin: Полировка панцирей скрашеров
-BreedingYabberjacks: Разведение ябберджеков
+Flowerpressing: вытаптывать цветы
+Fishing: рыболовство
+CollectingfineBongoolianMucusWine: коллекционировать бонгулианское слизистое вино
+Collectingsmallmodelreptoids: коллекционировать небольшие модели рептилоидов
+Starshipspotting: обнаружение кораблей
+Antigravitycooking: антигравитационная кухня
+Playingspaceguitar: игра на космической гитаре
+Miniaturespace-wargaming: играть в миниатюрные звездные войны
+Asteroidclimbing: астероидный альпинизм
+Antigravitydancing: антигравитационные танцы
+Inventingthings: изобретательство
+Weaponsresearch: разработка новых видов оружия
+Meteorracing: гонки на метеоритах
+Cybernetics: кибернетика
+Ancientlanguages: древние языки
+Playingvideogames: видеоигры
+TakingcareoflostMemau: забота о потерянных мимау
+PolishingSkrasherchitin: полировка панцирей скрашеров
+BreedingYabberjacks: разведение ябберджеков
 Photographingblackholes: Фотографировать черные дыры
-Buildingmodelstarships: Построение модельных кораблей
-EnvironmentalIssues: Защита окружающей среды
-Politics: Политика
-WatchingZ-ratedfilms: Просмотр низкорейтинговых фильмов
-Solarsurfing: Солнечный серфинг
-Chasingcomets: Охота за кометами
-Catchingfallingstars: Ловить падающие звезды
-Diningout: Ужинать в ресторанах
-Goingboldlywherenoalienhasgonebefore: Бывать там, где прежде не ступала нога инопланетянина
-Duellingwithlaserswords: Дуэли на лазерных мечах
-BreedingSpawn: Разведение грибов
-Ponderingtheanswertotheultimatequestion: Искать ответ на основной вопрос
-Restoringolddroids: Ремонтировать старых роботов
-HuntingGlaoths: Охота на глаотов
-SpreadingthewordofZedem: Распространение слова Зедема
-SavingthePhinray: Уход за финреем
-Collectingspacerocks: Коллекционирование космических камней
-Solarsailing: Плавание под солнечным парусом
-Hitch-hikingacrosstheGalaxy: Путешествовать по галактике автостопом
-Growingbonsaiplanets: Выращивание карликовых планет
-ListeningtothespacerockbandTheRollingAsteroids: Прослушивание рок-группы Роллинг Астероидз
-ListeningtothespacerocklegendBruceWarpsteen: Прослушивание рок-легенды Брюса Варпстина
-CountingthenumberofstarsintheMungoidNebula: Подсчет звезд в Кашевидной туманности
-Listeningtothemusicofthespheres: Слушать музыку сфер
-Tryingtoaudiblyscreaminspace: Пытаться слышно крикнуть в космосе
-Collectingthetinyplastictablesyougetinpizzaboxes: Коллекционирование одноразовых пластиковых подставок из-под пиццы
-PractisingZed-fu: Совершенствование в Зед-Фу
-Groovingondowntothefunkyspacebeat: Ловить кайф от фанкового космического бита
-Watchingpaintdry: Смотреть как высыхает краска
-BitingoffmorethanIcanchew: Откусывать больше, чем можно прожевать
-CollectingusedSirenunderwear: Коллекционирование перьев из крыльев сирен
-Collectingsecondhandtoiletpaper: Коллекционирование б/у сказзеров
-Collectingsphinctergasesforlaterenjoyment: Сбор веселящего газа для дальнейшего наслаждения
-Watchingkettlesboil: Наблюдать за кипящим чайником
-PlayingUrbanChaosfromMuckyFoot: Играть в Урбан Хаос от Маки Фут
-Zero-gweightlifting: Поднятие тяжестей в условиях невесомости
-Lickingwindows: Облизывать окна
-Shootingstars: Стрельба по звездам
-Bogsnorkelling: Болотное ныряние с маской
-Muffdiving: Погружение в Глубокое море спокойствия
-Buildinglogcabins: Строительство хижин из бревен
-Cablelaying: Прокладка кабеля
-Uphillgardening: Катание на водных лыжах
-Interiordecorating: Оформление помещений
-HorizontalHorticulture: Горизонтальное садоводство
-Whistlinginthedark: Свист во тьме
-Trufflehunting: Охота за трюфелями
-Monkeyspanking: Охота на гома
-Playingthepinkoboe: Играть в музыкальных группах Кантины
-Psychedelicyodelling: Психоделические йодли
-Astronomy: Астрономия
-Geography: География
+Buildingmodelstarships: построение модельных кораблей
+EnvironmentalIssues: защита окружающей среды
+Politics: политика
+WatchingZ-ratedfilms: просмотр низкорейтинговых фильмов
+Solarsurfing: солнечный серфинг
+Chasingcomets: охота за кометами
+Catchingfallingstars: ловить падающие звезды
+Diningout: ужинать в ресторанах
+Goingboldlywherenoalienhasgonebefore: бывать там, где прежде не ступала нога инопланетянина
+Duellingwithlaserswords: дуэли на лазерных мечах
+BreedingSpawn: разведение грибов
+Ponderingtheanswertotheultimatequestion: искать ответ на основной вопрос
+Restoringolddroids: ремонтировать старых роботов
+HuntingGlaoths: охота на глаотов
+SpreadingthewordofZedem: распространение слова Зедема
+SavingthePhinray: уход за финреем
+Collectingspacerocks: коллекционирование космических камней
+Solarsailing: плавание под солнечным парусом
+Hitch-hikingacrosstheGalaxy: путешествовать по галактике автостопом
+Growingbonsaiplanets: выращивание карликовых планет
+ListeningtothespacerockbandTheRollingAsteroids: прослушивание рок-группы Роллинг Астероидз
+ListeningtothespacerocklegendBruceWarpsteen: прослушивание рок-легенды Брюса Варпстина
+CountingthenumberofstarsintheMungoidNebula: подсчет звезд в Кашевидной туманности
+Listeningtothemusicofthespheres: слушать музыку сфер
+Tryingtoaudiblyscreaminspace: пытаться слышно крикнуть в космосе
+Collectingthetinyplastictablesyougetinpizzaboxes: коллекционирование одноразовых пластиковых подставок из-под пиццы
+PractisingZed-fu: совершенствование в Зед-Фу
+Groovingondowntothefunkyspacebeat: ловить кайф от фанкового космического бита
+Watchingpaintdry: смотреть как высыхает краска
+BitingoffmorethanIcanchew: откусывать больше, чем можно прожевать
+CollectingusedSirenunderwear: коллекционирование перьев из крыльев сирен
+Collectingsecondhandtoiletpaper: коллекционирование б/у сказзеров
+Collectingsphinctergasesforlaterenjoyment: сбор веселящего газа для дальнейшего наслаждения
+Watchingkettlesboil: наблюдать за кипящим чайником
+PlayingUrbanChaosfromMuckyFoot: играть в Урбан Хаос от Маки Фут
+Zero-gweightlifting: поднятие тяжестей в условиях невесомости
+Lickingwindows: облизывать окна
+Shootingstars: стрельба по звездам
+Bogsnorkelling: болотное ныряние с маской
+Muffdiving: погружение в Глубокое море спокойствия
+Buildinglogcabins: строительство хижин из бревен
+Cablelaying: прокладка кабеля
+Uphillgardening: катание на водных лыжах
+Interiordecorating: оформление помещений
+HorizontalHorticulture: горизонтальное садоводство
+Whistlinginthedark: свист во тьме
+Trufflehunting: охота за трюфелями
+Monkeyspanking: охота на гома
+Playingthepinkoboe: играть в музыкальных группах Кантины
+Psychedelicyodelling: психоделические йодли
+Astronomy: астрономия
+Geography: география
 ParticlePhysics: Физика частиц
-Journalism: Журналистика
-Passingthetimeofday: Убивание времени
-Spreadinggossip: Распространение сплетен
-Swimming: Плавание
-Bottomburpingcompetitions: Соревнования по отрыжке
-Collectingtoenailclippings: Коллекционировать обрезки ногтей
-Proboscispicking: Собирательство хоботом
-PrayingtoOrbastangtheSunGod: Поклонение Орбастангу, богу Солнца
-Chillingoutwithfriends: Болтовня с друзьями
-Drinkingvastquantitiesofspacebooze: Поглощение больших количеств космического сока
-Practicaljokes: Разыгрывать окружающих
-Beinghappy: Быть счастливым
-Omnicycling: Езда на омницикле
-Collectingexoticweaponry: Коллекционировать экзотические виды оружия
-Tombraiding: Расхищение гробниц
-ReadingNationalGeomorphicMagazine: Чтение журналов "Нэшнл геоморфик"
-LearningTelepathy: Изучение телепатии
-BecomingonewiththeMultiverse: Соединяться в одно целое с мультивселенной
-Quantumleaping: Квантовые прыжки
-Travellingfasterthanlight: Путешествия со скоростью выше скорости света
-Scaringyoungpodlings: Пугание юных подлингов
-Runningahydroponicfarm: Гидропоническая ферма
-Namingminorstars: Придумывать имена мелким звездам
-Wormholesurfing: Серфинг в червоточинах
-Listeningforpeoplescreaminginspace: Слушать крики людей в космосе
-Waitingforthenextbigbang: Ожидать следующий Большой взрыв
-TellingjokesaboutEarthlings: Рассказывать анекдоты про землян
-GrievingforrelativeslostatRoswell: Оплакивать родственников, погибших в Розуэлле
-Abductingpeople: Похищение людей
-Mutilatingcattle: Калечить крупный рогатый скот
-HoveringoverMexicoCity: Парить над Мехико в летающей тарелке
-Irritatingthemilitary: Раздражать военных с других планет
-Mindmelding: Объединяться разумами
-Warping: Искривление пространства
-Evolving: Эволюционирование
-Spiritualenhancement: Духовное совершенствование
-Decodingradiowaves: Декодирование радиоволн
-LaughingaboutSETI: Подшучивание над СЕТИ
-Poetry: Поэзия
-Growingbileworms: Выращивание желчных червей
+Journalism: журналистика
+Passingthetimeofday: убивание времени
+Spreadinggossip: распространение сплетен
+Swimming: плавание
+Bottomburpingcompetitions: соревнования по отрыжке
+Collectingtoenailclippings: коллекционировать обрезки ногтей
+Proboscispicking: собирательство хоботом
+PrayingtoOrbastangtheSunGod: поклонение орбастангу, богу Солнца
+Chillingoutwithfriends: болтовня с друзьями
+Drinkingvastquantitiesofspacebooze: поглощение больших количеств космического сока
+Practicaljokes: разыгрывать окружающих
+Beinghappy: быть счастливым
+Omnicycling: езда на омницикле
+Collectingexoticweaponry: коллекционировать экзотические виды оружия
+Tombraiding: расхищение гробниц
+ReadingNationalGeomorphicMagazine: чтение журналов "Нэшнл геоморфик"
+LearningTelepathy: изучение телепатии
+BecomingonewiththeMultiverse: соединяться в одно целое с мультивселенной
+Quantumleaping: квантовые прыжки
+Travellingfasterthanlight: путешествия со скоростью выше скорости света
+Scaringyoungpodlings: пугание юных подлингов
+Runningahydroponicfarm: гидропоническая ферма
+Namingminorstars: придумывать имена мелким звездам
+Wormholesurfing: серфинг в червоточинах
+Listeningforpeoplescreaminginspace: слушать крики людей в космосе
+Waitingforthenextbigbang: ожидать следующий Большой взрыв
+TellingjokesaboutEarthlings: рассказывать анекдоты про землян
+GrievingforrelativeslostatRoswell: оплакивать родственников, погибших в Розуэлле
+Abductingpeople: похищение людей
+Mutilatingcattle: калечить крупный рогатый скот
+HoveringoverMexicoCity: парить над Мехико в летающей тарелке
+Irritatingthemilitary: раздражать военных с других планет
+Mindmelding: объединяться разумами
+Warping: искривление пространства
+Evolving: эволюционирование
+Spiritualenhancement: духовное совершенствование
+Decodingradiowaves: декодирование радиоволн
+LaughingaboutSETI: высмеивание проекта SETI
+Poetry: поэзия
+Growingbileworms: выращивание желчных червей
 
